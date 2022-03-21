@@ -1,0 +1,16 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "testwatch": "jest --watchAll"
+  },
+  "dependencies": {
+    "jest": "27.5.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
